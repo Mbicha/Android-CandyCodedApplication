@@ -11,7 +11,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,7 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
   </component>
-  <component name="RunManager" selected="Android JUnit._2_StartTheGoogleMapsActivity">
+  <component name="RunManager" selected="Android JUnit.com.pluralsight.candycoded in app">
     <configuration name="_1_StartTheStoreInformationActivity.create_intent_infoactivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
       <module name="app" />
       <extension name="coverage">
@@ -190,8 +190,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit.com.pluralsight.candycoded in app" />
+        <item itemvalue="Android JUnit._2_StartTheGoogleMapsActivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity.create_intent_infoactivity" />
         <item itemvalue="Android JUnit._1_StartTheStoreInformationActivity.mainactivity_onoptionitemselected_return_super" />
       </list>
@@ -227,38 +227,38 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="208" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1601057876526" />
-    <state width="1306" height="220" key="GridCell.Tab.0.bottom" timestamp="1601139072031">
+    <state width="1306" height="196" key="GridCell.Tab.0.bottom" timestamp="1601142067281">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="220" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601139072031" />
-    <state width="1306" height="220" key="GridCell.Tab.0.center" timestamp="1601139072031">
+    <state width="1306" height="196" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601142067281" />
+    <state width="1306" height="196" key="GridCell.Tab.0.center" timestamp="1601142067281">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="220" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601139072031" />
-    <state width="1306" height="220" key="GridCell.Tab.0.left" timestamp="1601139072031">
+    <state width="1306" height="196" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601142067281" />
+    <state width="1306" height="196" key="GridCell.Tab.0.left" timestamp="1601142067280">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="220" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601139072031" />
-    <state width="1306" height="220" key="GridCell.Tab.0.right" timestamp="1601139072031">
+    <state width="1306" height="196" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601142067280" />
+    <state width="1306" height="196" key="GridCell.Tab.0.right" timestamp="1601142067281">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="220" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601139072031" />
-    <state width="1306" height="220" key="GridCell.Tab.1.bottom" timestamp="1601139086622">
+    <state width="1306" height="196" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601142067281" />
+    <state width="1306" height="62" key="GridCell.Tab.1.bottom" timestamp="1601141858667">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="220" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601139086622" />
-    <state width="1306" height="220" key="GridCell.Tab.1.center" timestamp="1601139086621">
+    <state width="1306" height="62" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601141858667" />
+    <state width="1306" height="62" key="GridCell.Tab.1.center" timestamp="1601141858667">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="220" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1601139086621" />
-    <state width="1306" height="220" key="GridCell.Tab.1.left" timestamp="1601139086621">
+    <state width="1306" height="62" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1601141858667" />
+    <state width="1306" height="62" key="GridCell.Tab.1.left" timestamp="1601141858666">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="220" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1601139086621" />
-    <state width="1306" height="220" key="GridCell.Tab.1.right" timestamp="1601139086621">
+    <state width="1306" height="62" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1601141858666" />
+    <state width="1306" height="62" key="GridCell.Tab.1.right" timestamp="1601141858667">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="220" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1601139086621" />
+    <state width="1306" height="62" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1601141858667" />
     <state x="100" y="100" width="1166" height="528" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1601054984076">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
